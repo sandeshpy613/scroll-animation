@@ -11,7 +11,7 @@ Brief description or tagline for your project.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -32,12 +32,6 @@ Explain how to use your project once it's installed. Include code examples, scre
 ## Contributing
 
 If you welcome contributions from the community, outline guidelines for how others can contribute to your project. Include information about how to report issues, submit pull requests, or contact you and your team.
-
-## License
-
-Specify the license under which your project is released. Common licenses include MIT, Apache, GNU GPL, and more. Include a brief statement about what others can and cannot do with your project under the chosen license.
-
-### Optional Sections
 
 Depending on your project's nature and complexity, you may want to include additional sections:
 
